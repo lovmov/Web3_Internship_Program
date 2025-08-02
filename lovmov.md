@@ -2,15 +2,15 @@
 timezone: UTC+8
 ---
 
-# 刘劲松
+# Jason
 
 **GitHub ID:** lovmov
 
-**Telegram:** @-vooodooo-
+**Telegram:** @        **WeChat:**-vooodooo-
 
 ## Self-introduction
 
-坐标深圳，证券行业，原来做IT，目前在市场部。
+坐标深圳，证券行业，对Web3等有前沿技术有较强兴趣。
 
 ## Notes
 
